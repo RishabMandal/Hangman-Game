@@ -7,13 +7,11 @@ import Header from './Header';
 function App() {
 
   // darkmode
-  const [dark, setdark] = useState("black");
+  const [dark, setdark] = useState(localStorage.getItem("dark")||"white");
 
   return (
     <div className="App">
-      {/* <header className="App-header">
-      </header> */}
-      <Header dark={dark} setdark={setdark} />
+      {/* <Header dark={dark} setdark={setdark} /> */}
       <Hangman dark={dark} setdark={setdark} />
     </div>
   );
