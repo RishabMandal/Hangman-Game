@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hangman-Game/static/css/main.425b71a1.css",
-    "main.js": "/Hangman-Game/static/js/main.52c113be.js",
+    "main.css": "/Hangman-Game/static/css/main.4dd0a9bf.css",
+    "main.js": "/Hangman-Game/static/js/main.bbe963c2.js",
     "static/js/787.20ace30e.chunk.js": "/Hangman-Game/static/js/787.20ace30e.chunk.js",
     "static/media/red-heart.png": "/Hangman-Game/static/media/red-heart.ffe72b2e867bc589f1f0.png",
     "index.html": "/Hangman-Game/index.html",
-    "main.425b71a1.css.map": "/Hangman-Game/static/css/main.425b71a1.css.map",
-    "main.52c113be.js.map": "/Hangman-Game/static/js/main.52c113be.js.map",
+    "main.4dd0a9bf.css.map": "/Hangman-Game/static/css/main.4dd0a9bf.css.map",
+    "main.bbe963c2.js.map": "/Hangman-Game/static/js/main.bbe963c2.js.map",
     "787.20ace30e.chunk.js.map": "/Hangman-Game/static/js/787.20ace30e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.425b71a1.css",
-    "static/js/main.52c113be.js"
+    "static/css/main.4dd0a9bf.css",
+    "static/js/main.bbe963c2.js"
   ]
 }
